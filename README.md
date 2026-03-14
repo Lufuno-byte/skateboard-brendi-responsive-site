@@ -18,8 +18,6 @@ Newsletter Signup: Stay updated on skate culture
 Responsive Design: Optimized for mobile and desktop
 
 
-👨‍💻 Author
-Developed by Lufuno Mabasa
-Specializing in Business analysis, business systems and mobile/web development
+👨‍💻 Developed by Lufuno Mabasa - Specializing in Business analysis, business systems and mobile/web development
 
 
